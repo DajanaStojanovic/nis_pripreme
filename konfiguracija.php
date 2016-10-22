@@ -15,7 +15,7 @@ $mysql_host = "localhost";
 $mysql_database = "nis_pripreme";
 $mysql_user = "root";
 $mysql_password = "";
-$put="/nis_pripreme/";
+$putanjaApp="/nis_pripreme/";
 
 
 //spajanje na bazu
