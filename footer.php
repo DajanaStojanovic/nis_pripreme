@@ -27,6 +27,7 @@ sr.reveal('dodasklasu', {reset: false, viewOffset: { top: 64 } });
 	  $('#myInput').focus()
 	})
 </script>
-
+<?php include_once  "registerForm.php"; ?>
+<?php include_once "loginForm.php"; ?>
 
 </body>
